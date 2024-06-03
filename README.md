@@ -1,7 +1,6 @@
 <a href="https://technocannon.com/freelance" target="_blank"><img src="https://github.com/TechnoCannon1337/Algorithms/blob/main/TechnoCannonBusinessCard.png"></a>
 # TECHNO CANNON, MPA
 ## SOFTWARE DEVELOPER
-# Hello World!
 # COMMERCIAL LINKS:
 Official Website:
 HTTPS://TECHNOCANNON.COM
