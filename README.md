@@ -1,16 +1,31 @@
-## Hi there 👋
+# TECHNO CANNON, MPA
+## SOFTWARE DEVELOPER
 
-<!--
-**TechnoCannon1337/TechnoCannon1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World!
 
-Here are some ideas to get you started:
+## This is a public repository for algorithms I've worked on and for algorithms I'm working on presently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Techno Cannon, MPA
+
+<a href="https://technocannon.com/freelance" target="_blank"><img src="https://github.com/TechnoCannon1337/Algorithms/blob/main/TechnoCannonBusinessCard.png"></a>
+
+# COMMERCIAL LINKS:
+Official Website:
+HTTPS://TECHNOCANNON.COM
+
+
+Cyber Swag:
+https://TechnoCannon.com/swag
+
+# PEER REVIEWED PUBLISHED WORKS:
+Official WordPress Plugin
+https://wordpress.org/plugins/pyplugger-for-pyscript/
+
+# SOCIAL MEDIA LINKS
+Twitter Link:
+http://TechnoCannon.com/twitter
+
+GitHub Link:
+http://TechnoCannon.com/github
+
+
