@@ -9,9 +9,5 @@ HTTPS://TECHNOCANNON.COM
 Official WordPress Plugin: Pyplugger for Pyscript
 https://wordpress.org/plugins/pyplugger-for-pyscript/
 
-# SOCIAL MEDIA LINKS
-Twitter Link:
-http://TechnoCannon.com/twitter
-
 
 
