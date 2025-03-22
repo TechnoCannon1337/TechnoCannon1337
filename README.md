@@ -5,8 +5,8 @@
 Official Website:
 HTTPS://TECHNOCANNON.COM
 
-# PEER REVIEWED PUBLISHED WORKS:
-Official WordPress Plugin
+# WordPress Python Plugin:
+Official WordPress Plugin: Pyplugger for Pyscript
 https://wordpress.org/plugins/pyplugger-for-pyscript/
 
 # SOCIAL MEDIA LINKS
