@@ -1,9 +1,6 @@
 <img src="https://github.com/TechnoCannon1337/Algorithms/blob/main/TechnoCannonBusinessCard.png">
 
 # TECHNO CANNON, MPA
-# COMMERCIAL LINKS:
-Official Website:
-HTTPS://TECHNOCANNON.COM
 
 # WordPress Python Plugin:
 Official WordPress Plugin: Pyplugger for Pyscript
